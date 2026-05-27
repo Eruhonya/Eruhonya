@@ -1,5 +1,7 @@
 # Hi, I'm Kan Sen Gvan 👋
 
+> From raw data to production deployment 🚀
+
 Aspiring Data Scientist & ML Engineer with a background in
 Oil & Gas Engineering and Strategic Management.
 Currently deepening expertise in AI and Machine Learning.
@@ -13,7 +15,6 @@ Currently deepening expertise in AI and Machine Learning.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Web & DevOps**
 
@@ -66,6 +67,8 @@ Currently deepening expertise in AI and Machine Learning.
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kasgn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ksgn0831)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/eruhonya)
 
 <!--
 **Eruhonya/Eruhonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
