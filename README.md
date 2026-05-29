@@ -4,7 +4,7 @@
 
 Aspiring Data Scientist & ML Engineer with a background in
 Oil & Gas Engineering and Strategic Management.
-Currently deepening expertise in AI and Machine Learning.
+Currently deepening expertise in AI
 
 ---
 
