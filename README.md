@@ -37,7 +37,7 @@ Currently deepening expertise in AI
 
 | Project | Type | Tools |
 |---------|------|-------|
-| [Traffic Sign Recognition](#) | Computer Vision | TensorFlow, OpenCV |
+| [Traffic Sign Recognition](https://github.com/Eruhonya/CV_project-Traffic_sign_recognition.git) | Computer Vision | TensorFlow, OpenCV |
 | [CNC Machine Defect Detection](#) | Industrial ML | scikit-learn, pandas |
 | [Pump Sensor Anomaly Detection](#) | Industrial IoT | scikit-learn, pandas |
 | [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
