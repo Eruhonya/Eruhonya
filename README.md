@@ -38,10 +38,9 @@ Currently deepening expertise in AI
 | Project | Type | Tools |
 |---------|------|-------|
 | [Traffic Sign Recognition](https://github.com/Eruhonya/CV_project-Traffic_sign_recognition.git) | Computer Vision | TensorFlow, OpenCV |
-| [CNC milling tool wear](#) | Industrial ML | scikit-learn, pandas |
+| [CNC ToolCondition([#)](https://github.com/Eruhonya/CNC_ToolCondition_Prediction.git) | Industrial ML | scikit-learn, pandas |
 | [Pump Sensor Anomaly Detection](#) | Industrial IoT | scikit-learn, pandas |
 | [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
-| [Car Sales Prediction](#) | Business Analytics | pandas, seaborn |
 | [Yelp](#) | NLP | scikit-learn, nltk |
 
 ---
