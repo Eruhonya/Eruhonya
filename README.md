@@ -42,7 +42,7 @@ Currently deepening expertise in AI
 | [Pump Sensor Anomaly Detection](#) | Industrial IoT | scikit-learn, pandas |
 | [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
 | [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/Email-Spam-prediction)  | NLP | scikit-learn, nltk |
-| [NASA Turbodan jet Engine] / | SOON | SOON |
+| [NASA Turbodan jet Engine](#) | SOON | SOON |
 
 ---
 
