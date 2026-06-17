@@ -41,7 +41,7 @@ Currently deepening expertise in AI
 | [CNC ToolCondition](https://github.com/Eruhonya/CNC_ToolCondition_Prediction.git) | Industrial ML | scikit-learn, pandas |
 | [Pump Sensor Anomaly Detection](#) | Industrial IoT | scikit-learn, pandas |
 | [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
-| [Yelp](#) | NLP | scikit-learn, nltk |
+| [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) | NLP | scikit-learn, nltk |
 
 ---
 
