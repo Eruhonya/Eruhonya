@@ -40,8 +40,8 @@ Currently deepening expertise in AI
 | [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/Email-Spam-prediction) | NLP | scikit-learn, nltk |
 | [CNC ToolCondition](https://github.com/Eruhonya/CNC_ToolCondition_Prediction.git) | Industrial ML | scikit-learn, pandas |
 | [Household Power Consumption](https://github.com/Eruhonya/TS_Power_consumption.git) | Time Series | TensorFlow, Keras |
-| [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
-| [Air Pollution Forecasting](#) | Time Series | TensorFlow, Keras |
+| [Combined Cycle Power Plant](https://github.com/Eruhonya/CCPP-Energy-Prediction.git) | Regression | scikit-learn, matplotlib |
+| [Air Pollution Beijing](https://github.com/Eruhonya/TS_Air_pollution.git) | Time Series | TensorFlow, Keras |
 | [Pump Sensor Anomaly Detection](#) | SOON | SOON |
 | [NASA Turbofan Jet Engine](#) | SOON | SOON |
 
