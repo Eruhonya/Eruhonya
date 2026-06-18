@@ -34,15 +34,16 @@ Currently deepening expertise in AI
 ---
 
 ## 📂 Projects
-
 | Project | Type | Tools |
 |---------|------|-------|
 | [Traffic Sign Recognition](https://github.com/Eruhonya/CV_project-Traffic_sign_recognition.git) | Computer Vision | TensorFlow, OpenCV |
+| [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/Email-Spam-prediction) | NLP | scikit-learn, nltk |
 | [CNC ToolCondition](https://github.com/Eruhonya/CNC_ToolCondition_Prediction.git) | Industrial ML | scikit-learn, pandas |
-| [Pump Sensor Anomaly Detection](#) | Industrial IoT | scikit-learn, pandas |
+| [Household Power Consumption](https://github.com/Eruhonya/TS_Power_consumption.git) | Time Series | TensorFlow, Keras |
 | [Combined Cycle Power Plant](#) | Regression | scikit-learn, matplotlib |
-| [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/Email-Spam-prediction)  | NLP | scikit-learn, nltk |
-| [NASA Turbodan jet Engine](#) | SOON | SOON |
+| [Air Pollution Forecasting](#) | Time Series | TensorFlow, Keras |
+| [Pump Sensor Anomaly Detection](#) | SOON | SOON |
+| [NASA Turbofan Jet Engine](#) | SOON | SOON |
 
 ---
 
