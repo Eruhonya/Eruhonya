@@ -37,7 +37,7 @@ Currently deepening expertise in AI
 | Project | Type | Tools |
 |---------|------|-------|
 | [Traffic Sign Recognition](https://github.com/Eruhonya/CV_project-Traffic_sign_recognition.git) | Computer Vision | TensorFlow, OpenCV |
-| [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/Email-Spam-prediction) | NLP | scikit-learn, nltk |
+| [Yelp](https://github.com/Eruhonya/NLP/Yelp-sentiment) / [Email](https://github.com/Eruhonya/NLP/tree/64330f763b6bcd4b5415f564b7959aa828be3b11/Email-Spam-prediction) | NLP | scikit-learn, nltk |
 | [CNC ToolCondition](https://github.com/Eruhonya/CNC_ToolCondition_Prediction.git) | Industrial ML | scikit-learn, pandas |
 | [Household Power Consumption](https://github.com/Eruhonya/TS_Power_consumption.git) | Time Series | TensorFlow, Keras |
 | [Combined Cycle Power Plant](https://github.com/Eruhonya/CCPP-Energy-Prediction.git) | Regression | scikit-learn, matplotlib |
