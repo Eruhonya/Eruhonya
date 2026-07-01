@@ -49,8 +49,8 @@ Currently deepening expertise in AI
 
 ## 📊 GitHub Stats
 
-![Eruhonya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruhonya&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruhonya&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eruhonya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eruhonya&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
